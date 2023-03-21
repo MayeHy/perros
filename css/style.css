@@ -1,0 +1,61 @@
+h1{
+    color: rgb(89, 240, 89);
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 40px;
+}
+
+h2 {
+    color: rgba(53, 109, 212, 0.781);
+}
+
+h3 {
+    color:rgb(151, 243, 46);
+    font-size:  28px;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+
+}
+
+p,
+ul,
+ol {
+    color:rgb(82, 82, 82);
+    font-size: 20px;
+}
+
+.pug-perro {
+    width: 300px;
+    border-radius: 30px;
+}
+
+img {
+    width: 155px;
+    border-radius: 45%;
+    border-style:dashed;
+    border-color:blanchedalmond;
+    border-width: 5px;
+}
+
+.contenedor-listas {
+    background-color: silver;
+}
+
+.lista-perro {
+    background-color: rgb(255, 187, 104);
+}
+
+#imagen-perro {
+    border-radius:70%;
+    border-width: 5px;
+    border-style: dotted;
+    border-color:crimson;
+}
+
+.inicio-pag {
+    background-color: mediumpurple;
+}
+#perro-vai {
+    border-radius:70%;
+    border-width: 5px;
+    border-style: dashed;
+    border-color:rgb(147, 82, 160);
+}
